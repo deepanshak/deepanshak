@@ -24,20 +24,21 @@
 
 </div>
 </h1>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-## 🌱Profile
-I'm a data analyst driven to uncover meaningful insights from complex datasets. With expertise in data visualization and having strong mathematical and statistical foundation.I thrive on turning data challenges into opportunities for organizational growth."
+## 👩‍💻Profile
+I'm a data analyst driven to uncover meaningful insights from complex datasets. With expertise in data visualization,predictive modeling ,business analytics,strong mathematical and statistical background, and having a grasp over data analysis tools demonstrated through various personal projects. Looking fordward to work with organisations to refine and leverage my data analysis skills for organizational growth and delve deeper into the world of data science. 
+
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" data-canonical-src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🌟 What I Do
 
 - **🔍Data Analysis:** I excel in utilizing tools such as Power BI, Excel, SQL, and Python to dive deep into data and uncover valuable insights.
 
-- **📊Data Visualization And Storytelling:** I have a keen eye for data visualization, which I leverage to make complex data accessible and understandable.
+- **📊Data Visualization And Storytelling:**  Proficient at presenting complex data in a visual format for easier comprehension and interpretation, utilizing tools like Power BI. I craft narratives around data insights to communicate findings effectively. 
 
-- **🔢Mathematical And Statistical Foundation:** With a strong foundation in mathematics and statistics, I bring a quantitative approach to my analyses, ensuring accuracy and reliability.
+- **🔢Mathematical And Statistical Foundation:** With a strong foundation in mathematics and statistics, I bring a quantitative and critical approach to my analyses, ensuring accuracy and reliability.
 
-- **🤖Machine Learning:** Being a constant learner,I am delving deep into the world of ML.
+- **🤖Machine Learning:**  By leveraging machine learning algorithms, I can uncover patterns, trends, and correlations that may not be apparent through traditional analytical methods.Being a constant learner,there is still a lot to explore in the world of ML.
 
 
 ## 🛠️ Languages-Tools-Frameworks 🛠️ 
@@ -63,7 +64,7 @@ I'm a data analyst driven to uncover meaningful insights from complex datasets. 
 
 ![Static Badge](https://img.shields.io/badge/AWS-Blue?logo=amazon%20web%20services&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/informatica-orange?logo=informatica&logoColor=white&labelColor=orange&color=orange)
-
+![Static Badge](https://img.shields.io/badge/%20Machine_Learning-dark_green?logo=ML&logoColor=white&labelColor=darkgreen&color=%20darkgreen)
 ## 🔭 Projects
 
 <table>
@@ -151,8 +152,9 @@ I'm a data analyst driven to uncover meaningful insights from complex datasets. 
 </table>
 
 
+#### I'll be excited to connect with fellow data enthusiasts and professionals to collaborate over a project, feel free to reach out if you are intrested!!
 
-### THANKYOU FOR VISITING!
+### THANKYOU FOR VISITING🩷!
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
