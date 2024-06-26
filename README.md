@@ -17,7 +17,7 @@
   <a href="deepansha440@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
- <a href="https://salesp07.github.io" target="_blank">
+ <a href="https://deepansha440.wixsite.com/my-site-3" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 
